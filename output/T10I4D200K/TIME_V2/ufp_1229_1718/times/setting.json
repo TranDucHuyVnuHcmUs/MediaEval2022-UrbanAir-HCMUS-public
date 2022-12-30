@@ -1,0 +1,11 @@
+{
+    "input_path": "../data/others/T10I4D200K/T10I4D200K.csv",
+    "min_supports": [
+        32
+    ],
+    "max_periods": [
+        46340.95001184158,
+        92681.90002368316
+    ],
+    "algo_mode": 1
+}

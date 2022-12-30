@@ -1,0 +1,2 @@
+Mode,MinSup,MaxPer,PFItemCount,prepare_database,make_transaction,build_tree,upfp_growth,produce_pattern,max_pattern_length,potential_max_length,potential_pattern_count,size_tree
+2.0,2.0,65536.0,869.0,2.6792108790000384,0.0,10.73695030600038,144.72517016499978,752.2080772539998,8.0,16.0,821325.0,718930.0

@@ -1,0 +1,2 @@
+AQI_O3_lv1, AQI_CO_lv2, Bus_LOW, AQI_NO2_lv1, AQI_SO2_lv1, Temperature_HIGH, Humidity_HIGH:[4141.3384268104055, 49.0]
+UV_LOW, AQI_CO_lv2, Bus_LOW, AQI_NO2_lv1, Temperature_HIGH, AQI_SO2_lv1, Humidity_HIGH:[4105.447804047088, 49.0]

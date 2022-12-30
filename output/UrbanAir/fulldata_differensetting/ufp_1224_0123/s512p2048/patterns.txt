@@ -1,0 +1,3 @@
+Motorbike_LOW, AQI_O3_lv1, Person_LOW, AQI_CO_lv2, Truck_LOW, Altitude_HIGH, UV_LOW, Bus_LOW, AQI_NO2_lv1, Temperature_HIGH, AQI_SO2_lv1, Humidity_HIGH:[698.873041405451, 63.0]
+Motorbike_LOW, Car_MODERATE, AQI_O3_lv1, Person_LOW, Truck_LOW, AQI_CO_lv2, UV_LOW, Bus_LOW, Temperature_HIGH, AQI_NO2_lv1, AQI_SO2_lv1, Humidity_HIGH:[569.1712476314186, 67.0]
+WindGust_LOW, UV_LOW, Truck_LOW, Altitude_HIGH, AQI_O3_lv1, WindSpeed_LOW, Bus_LOW, AQI_CO_lv2, AQI_NO2_lv1, Temperature_HIGH, AQI_SO2_lv1, Humidity_HIGH:[516.9262460082856, 113.0]

@@ -1,0 +1,5 @@
+{
+    "data_path": "../data/UTDATABASE/utd_20221222_0226/label.csv",
+    "min_support": 4096,
+    "max_period": 724.0773439350247
+}

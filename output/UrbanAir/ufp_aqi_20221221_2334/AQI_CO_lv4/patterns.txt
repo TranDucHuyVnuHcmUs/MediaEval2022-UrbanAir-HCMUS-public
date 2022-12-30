@@ -1,0 +1,2 @@
+Car_MODERATE, Motorbike_LOW, Person_LOW, Truck_LOW, Bus_LOW, AQI_CO_lv4:[1.204870687411312, 9.0]
+Car_LOW, Person_LOW, Motorbike_LOW, Truck_LOW, AQI_CO_lv4, Bus_LOW:[2.1813800665456746, 14.0]

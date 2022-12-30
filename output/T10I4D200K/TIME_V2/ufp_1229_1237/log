@@ -1,0 +1,129 @@
+
+=====
+Min support, max period =  (1, 23170.47500592079)
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718851
+Algo time =  78.8427226620006
+Potential max pattern length =  13
+Found the pattern with length =  1
+Found the pattern with length =  2
+Found the pattern with length =  4
+Found the pattern with length =  8
+Checking potential patterns with length =  11
+pattern: 100%|██████████| 47/47 [00:00<00:00, 99.90it/s] 
+Checking potential patterns with length =  9
+pattern:  94%|█████████▍| 255/272 [00:01<00:00, 139.09it/s]
+Found the pattern with length =  9
+Checking potential patterns with length =  10
+pattern: 100%|██████████| 136/136 [00:01<00:00, 132.81it/s]
+Now calculating all patterns with max length...
+pattern: 100%|██████████| 17/17 [00:00<00:00, 124.06it/s]
+Most periodic pattern =  314, 980, 523, 874, 823, 470, 1, 66, 884:[1.2066933258216739, 2610.0]
+
+...Algo time of iteration 0 = 78.8427226620006
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718851
+Algo time =  73.1543725800002
+Potential max pattern length =  13
+Found the pattern with length =  1
+Found the pattern with length =  2
+Found the pattern with length =  4
+Found the pattern with length =  8
+Checking potential patterns with length =  11
+pattern: 100%|██████████| 47/47 [00:00<00:00, 78.96it/s]
+Checking potential patterns with length =  9
+pattern:  94%|█████████▍| 255/272 [00:02<00:00, 111.73it/s]
+Found the pattern with length =  9
+Checking potential patterns with length =  10
+pattern: 100%|██████████| 136/136 [00:01<00:00, 112.22it/s]
+Now calculating all patterns with max length...
+pattern: 100%|██████████| 17/17 [00:00<00:00, 116.43it/s]
+Most periodic pattern =  314, 980, 523, 874, 823, 470, 1, 66, 884:[1.2066933258216739, 2610.0]
+
+...Algo time of iteration 1 = 73.1543725800002
+
+=====
+Min support, max period =  (1, 46340.95001184158)
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718913
+Algo time =  112.31987125699925
+Potential max pattern length =  14
+Found the pattern with length =  1
+Found the pattern with length =  2
+Found the pattern with length =  4
+Found the pattern with length =  8
+Checking potential patterns with length =  11
+pattern: 100%|██████████| 251/251 [00:02<00:00, 106.50it/s]
+Checking potential patterns with length =  9
+pattern:  78%|███████▊  | 1390/1773 [00:11<00:03, 125.19it/s]
+Found the pattern with length =  9
+Checking potential patterns with length =  10
+pattern: 100%|██████████| 715/715 [00:06<00:00, 114.68it/s]
+Now calculating all patterns with max length...
+pattern: 100%|██████████| 383/383 [00:03<00:00, 122.72it/s]
+Most periodic pattern =  314, 980, 523, 874, 823, 470, 1, 66, 884:[1.2066933258216739, 2610.0]
+
+...Algo time of iteration 0 = 112.31987125699925
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718913
+Algo time =  110.4086916340002
+Potential max pattern length =  14
+Found the pattern with length =  1
+Found the pattern with length =  2
+Found the pattern with length =  4
+Found the pattern with length =  8
+Checking potential patterns with length =  11
+pattern: 100%|██████████| 251/251 [00:02<00:00, 106.21it/s]
+Checking potential patterns with length =  9
+pattern:  78%|███████▊  | 1390/1773 [00:11<00:03, 124.99it/s]
+Found the pattern with length =  9
+Checking potential patterns with length =  10
+pattern: 100%|██████████| 715/715 [00:06<00:00, 114.25it/s]
+Now calculating all patterns with max length...
+pattern: 100%|██████████| 383/383 [00:03<00:00, 124.02it/s]
+Most periodic pattern =  314, 980, 523, 874, 823, 470, 1, 66, 884:[1.2066933258216739, 2610.0]
+
+...Algo time of iteration 1 = 110.4086916340002
+
+=====
+Min support, max period =  (1, 92681.90002368316)
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718930
+Algo time =  215.7564506589997
+Potential max pattern length =  16
+Found the pattern with length =  1
+Found the pattern with length =  2
+Found the pattern with length =  4
+Found the pattern with length =  8
+Checking potential patterns with length =  12
+pattern: 100%|██████████| 7664/7664 [01:11<00:00, 106.86it/s]
+Checking potential patterns with length =  10
+pattern: 100%|██████████| 50408/50408 [06:44<00:00, 124.62it/s]
+Checking potential patterns with length =  9
+pattern:  72%|███████▏  | 71484/98924 [08:35<03:17, 138.63it/s]
+Found the pattern with length =  9
+Now calculating all patterns with max length...
+pattern: 100%|██████████| 27440/27440 [03:19<00:00, 137.31it/s]
+Most periodic pattern =  314, 980, 523, 874, 823, 470, 1, 66, 884:[1.2066933258216739, 2610.0]
+
+...Algo time of iteration 0 = 215.7564506589997
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718930
+Algo time =  229.39969737699903
+Potential max pattern length =  16
+Found the pattern with length =  1
+Found the pattern with length =  2
+Found the pattern with length =  4
+Found the pattern with length =  8
+Checking potential patterns with length =  12
+pattern: 100%|██████████| 7664/7664 [01:13<00:00, 104.15it/s]
+Checking potential patterns with length =  10
+pattern: 100%|██████████| 50408/50408 [06:37<00:00, 126.82it/s]
+Checking potential patterns with length =  9
+pattern:  72%|███████▏  | 71483/98923 [09:14<03:32, 129.00it/s]
+Found the pattern with length =  9
+Now calculating all patterns with max length...
+pattern: 100%|██████████| 27440/27440 [03:33<00:00, 128.82it/s]
+Most periodic pattern =  314, 980, 523, 874, 823, 470, 1, 66, 884:[1.2066933258216739, 2610.0]
+
+...Algo time of iteration 1 = 229.39969737699903

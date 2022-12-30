@@ -1,0 +1,1 @@
+WindCos_HIGH, Motorbike_LOW, Car_MODERATE, Rainfall_LOW, WindSin_LOW, Truck_LOW, UV_LOW, Person_LOW, Altitude_HIGH, AQI_O3_lv1, WindGust_LOW, Bus_LOW, WindSpeed_LOW, AQI_CO_lv2, AQI_NO2_lv1, Temperature_HIGH, AQI_SO2_lv1, Humidity_HIGH:[33.26610648127461, 248.0]

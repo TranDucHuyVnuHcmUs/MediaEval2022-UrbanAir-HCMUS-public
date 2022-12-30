@@ -1,0 +1,1 @@
+Motorbike_LOW, Car_MODERATE, AQI_O3_lv1, Person_LOW, Truck_LOW, AQI_CO_lv2, UV_LOW, Bus_LOW, Temperature_HIGH, AQI_NO2_lv1, AQI_SO2_lv1, Humidity_HIGH:[569.1712476314186, 67.0]

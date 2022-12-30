@@ -1,0 +1,6 @@
+Person_MODERATE, Car_MODERATE, UV_LOW, Truck_LOW, AQI_O3_lv1, AQI_CO_lv2, Bus_LOW, Altitude_HIGH, AQI_NO2_lv1, AQI_SO2_lv1, Temperature_HIGH, Humidity_HIGH:[282.57708329175887, 53.0]
+AQI_PM10_lv2, Car_MODERATE, AQI_O3_lv1, Truck_LOW, UV_LOW, AQI_CO_lv2, Altitude_HIGH, Bus_LOW, AQI_NO2_lv1, AQI_SO2_lv1, Temperature_HIGH, Humidity_HIGH:[348.59265122852736, 54.0]
+AQI_PM2.5_lv3, Truck_LOW, AQI_O3_lv1, UV_LOW, AQI_PM10_lv2, AQI_CO_lv2, Altitude_HIGH, Bus_LOW, AQI_NO2_lv1, Temperature_HIGH, AQI_SO2_lv1, Humidity_HIGH:[472.27108338700486, 56.0]
+Person_LOW, AQI_PM10_lv1, AQI_O3_lv1, Truck_LOW, AQI_CO_lv2, UV_LOW, Altitude_HIGH, Bus_LOW, Temperature_HIGH, AQI_NO2_lv1, AQI_SO2_lv1, Humidity_HIGH:[382.81233928651443, 68.0]
+Person_LOW, AQI_PM10_lv2, AQI_O3_lv1, Truck_LOW, AQI_CO_lv2, UV_LOW, Altitude_HIGH, Bus_LOW, Temperature_HIGH, AQI_NO2_lv1, AQI_SO2_lv1, Humidity_HIGH:[274.23860027452736, 70.0]
+AQI_PM10_lv1, Car_MODERATE, UV_LOW, AQI_O3_lv1, Truck_LOW, AQI_CO_lv2, Altitude_HIGH, Bus_LOW, Temperature_HIGH, AQI_NO2_lv1, AQI_SO2_lv1, Humidity_HIGH:[364.09162598439997, 107.0]

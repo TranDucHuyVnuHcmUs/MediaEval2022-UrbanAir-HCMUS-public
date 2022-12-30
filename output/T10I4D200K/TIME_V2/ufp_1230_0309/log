@@ -1,0 +1,105 @@
+
+=====
+Min support, max period =  (1, 1024)
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  601531
+Algo time =  13.724700669999947
+...Algo time of iteration 0 = 13.724700669999947
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  601531
+Algo time =  13.918685951000953
+...Algo time of iteration 1 = 13.918685951000953
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  601531
+Algo time =  14.342672185999618
+...Algo time of iteration 2 = 14.342672185999618
+
+=====
+Min support, max period =  (1, 2048)
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  691620
+Algo time =  18.435098468000433
+...Algo time of iteration 0 = 18.435098468000433
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  691620
+Algo time =  20.719946088000142
+...Algo time of iteration 1 = 20.719946088000142
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  691620
+Algo time =  20.160844179999913
+...Algo time of iteration 2 = 20.160844179999913
+
+=====
+Min support, max period =  (1, 4096)
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  712776
+Algo time =  22.868457632999707
+...Algo time of iteration 0 = 22.868457632999707
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  712776
+Algo time =  23.761319056000502
+...Algo time of iteration 1 = 23.761319056000502
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  712776
+Algo time =  22.90712035099932
+...Algo time of iteration 2 = 22.90712035099932
+
+=====
+Min support, max period =  (1, 8192)
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  717406
+Algo time =  32.59584847900078
+...Algo time of iteration 0 = 32.59584847900078
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  717406
+Algo time =  32.64659862100052
+...Algo time of iteration 1 = 32.64659862100052
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  717406
+Algo time =  33.33505373400112
+...Algo time of iteration 2 = 33.33505373400112
+
+=====
+Min support, max period =  (1, 16384)
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718750
+Algo time =  56.15715160000036
+...Algo time of iteration 0 = 56.15715160000036
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718750
+Algo time =  55.85956442600036
+...Algo time of iteration 1 = 55.85956442600036
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718750
+Algo time =  52.926069571998596
+...Algo time of iteration 2 = 52.926069571998596
+
+=====
+Min support, max period =  (1, 32768)
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718908
+Algo time =  81.65752834100022
+...Algo time of iteration 0 = 81.65752834100022
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718908
+Algo time =  84.65813791099936
+...Algo time of iteration 1 = 84.65813791099936
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718908
+Algo time =  84.78635861700059
+...Algo time of iteration 2 = 84.78635861700059
+
+=====
+Min support, max period =  (1, 65536)
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718930
+Algo time =  153.24848475100043
+...Algo time of iteration 0 = 153.24848475100043
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718930
+Algo time =  145.32893558700016
+...Algo time of iteration 1 = 145.32893558700016
+Algo mode =  2  (1 = min, 2 = max)
+Tree node count =  718930
+Algo time =  159.3519055780016
+...Algo time of iteration 2 = 159.3519055780016

@@ -1,0 +1,5 @@
+{
+    "data_path": "../data/others/T10I4D200K/T10I4D200K.csv",
+    "min_support": 8,
+    "max_period": 2048
+}
